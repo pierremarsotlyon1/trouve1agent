@@ -1,2 +1,0 @@
-webpackJsonp([10],{456:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var u={path:"/videos/add",getComponents:function(e,t){n.e(4,function(e){t(null,n(317).default)})}};t.default=u},458:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var u={path:"/videos/update/:id",getComponents:function(e,t){n.e(4,function(e){t(null,n(317).default)})}};t.default=u}});
-//# sourceMappingURL=10.772965e5.chunk.js.map
