@@ -1,0 +1,2 @@
+webpackJsonp([11],{453:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var u={path:"/settings/agent",getComponents:function(e,t){n.e(13,function(e){t(null,n(434).default)})}};t.default=u},455:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var u={path:"/settings/sportif",getComponents:function(e,t){n.e(12,function(e){t(null,n(435).default)})}};t.default=u}});
+//# sourceMappingURL=11.fa030312.chunk.js.map

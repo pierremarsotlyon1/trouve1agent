@@ -1,0 +1,21 @@
+section.experience{
+    background: url("/assets/img/landing-6.jpg") no-repeat;
+    will-change: transform, top;
+    background-size: cover !important;
+    background-position: 50% 50% !important;
+    z-index: 0;
+    transition: 0.3s linear;
+    -webkit-transition: 0.3s linear;
+    -moz-transition: 0.3s linear;
+}
+
+section.presentation{
+    background: url("/assets/img/fitness-1.jpg") no-repeat;
+    will-change: transform, top;
+    background-size: cover !important;
+    background-position: 50% 50% !important;
+    z-index: 0;
+    transition: 0.3s linear;
+    -webkit-transition: 0.3s linear;
+    -moz-transition: 0.3s linear;
+}
